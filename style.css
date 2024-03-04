@@ -55,9 +55,10 @@ main{
 }
 
 .cite{
-   flex-shrink: 1;
-   letter-spacing:-.5px;
+font-size: .9rem;
+  margin: 0 2rem;
 }
+
 .btn-wrapper{
     display: flex;
     flex-direction: column;
